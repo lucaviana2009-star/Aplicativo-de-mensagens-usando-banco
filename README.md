@@ -1,16 +1,28 @@
 # Sistema de Conversas em Java
 
-Este projeto é uma aplicação desenvolvida em Java com interface gráfica (Swing) e integração com banco de dados. O sistema funciona como uma plataforma de mensagens inspirada em aplicativos de conversa, permitindo o cadastro de usuários, gerenciamento de contatos e troca de mensagens de forma simples e intuitiva.
+Este projeto é uma aplicação de mensagens desenvolvida em Java utilizando a IDE Apache NetBeans, com interface gráfica criada em Swing e integração com banco de dados MySQL para armazenamento persistente das informações.
 
-O objetivo do projeto é aplicar conceitos de programação orientada a objetos, desenvolvimento de interfaces gráficas, persistência de dados e conexão com banco de dados em uma aplicação prática. As informações dos usuários, contatos e mensagens são armazenadas no banco de dados, garantindo a persistência dos dados entre as execuções do sistema.
+Inspirado em aplicativos de mensagens instantâneas, o sistema permite o cadastro de usuários, gerenciamento de contatos e troca de mensagens por meio de uma interface simples e intuitiva. O projeto foi desenvolvido com foco no aprendizado e na aplicação prática de conceitos fundamentais de desenvolvimento de software.
 
-### Principais funcionalidades
+## Tecnologias Utilizadas
 
-* Cadastro e gerenciamento de usuários;
-* Login no sistema;
+* Java
+* Java Swing
+* JDBC
+* MySQL
+* Apache NetBeans
+
+## Funcionalidades
+
+* Cadastro de usuários;
+* Autenticação (login);
 * Gerenciamento de contatos;
 * Envio e recebimento de mensagens;
-* Interface gráfica desenvolvida em Java Swing;
-* Integração com banco de dados para armazenamento das informações.
+* Interface gráfica amigável;
+* Armazenamento de dados em banco de dados MySQL.
 
-Este projeto foi desenvolvido com fins educacionais para praticar conceitos de desenvolvimento de software utilizando Java, interfaces gráficas e bancos de dados.
+## Objetivo
+
+O principal objetivo deste projeto é aplicar conceitos de Programação Orientada a Objetos (POO), desenvolvimento de interfaces gráficas, persistência de dados e integração com banco de dados, simulando o funcionamento básico de um aplicativo de conversas.
+
+Este projeto possui fins educacionais e foi desenvolvido para aprimorar conhecimentos em Java, banco de dados e desenvolvimento de aplicações desktop.
